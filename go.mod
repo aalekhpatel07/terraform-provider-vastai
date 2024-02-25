@@ -1,4 +1,4 @@
-module github.com/hashicorp/terraform-provider-scaffolding-framework
+module github.com/aalekhpatel07/terraform-provider-vastai
 
 go 1.20
 

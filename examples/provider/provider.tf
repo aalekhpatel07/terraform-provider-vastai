@@ -1,3 +1,3 @@
-provider "scaffolding" {
+provider "vastai" {
   # example configuration here
 }
