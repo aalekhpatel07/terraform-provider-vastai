@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/hashicorp/terraform-plugin-docs v0.16.0
 	github.com/hashicorp/terraform-plugin-framework v1.5.0
-	github.com/hashicorp/terraform-plugin-go v0.21.0
+	github.com/hashicorp/terraform-plugin-go v0.22.0
 	github.com/hashicorp/terraform-plugin-log v0.9.0
 	github.com/hashicorp/terraform-plugin-testing v1.6.0
 )
@@ -15,7 +15,6 @@ require (
 	github.com/Masterminds/semver/v3 v3.1.1 // indirect
 	github.com/Masterminds/sprig/v3 v3.2.2 // indirect
 	github.com/ProtonMail/go-crypto v0.0.0-20230828082145-3c4c8a2d2371 // indirect
-	github.com/aalekhpatel07/go-client-vastai v0.1.0 // indirect
 	github.com/agext/levenshtein v1.2.2 // indirect
 	github.com/apparentlymart/go-textseg/v15 v15.0.0 // indirect
 	github.com/armon/go-radix v1.0.0 // indirect
@@ -70,6 +69,6 @@ require (
 	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20231106174013-bbf56f31fb17 // indirect
-	google.golang.org/grpc v1.61.0 // indirect
+	google.golang.org/grpc v1.61.1 // indirect
 	google.golang.org/protobuf v1.32.0 // indirect
 )
